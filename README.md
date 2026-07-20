@@ -24,7 +24,7 @@ I'm currently building my analytics portfolio. Upcoming projects will focus on:
 - Python
 - Power BI
 - Microsoft Excel
-- R
+- R 
 
 ## 📫 Connect with Me
 
