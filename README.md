@@ -14,9 +14,7 @@ I recently completed my BBA in Business Administration with a specialization in 
 
 ## 📂 Projects
 
-I'm currently building my analytics portfolio. Upcoming projects will focus on:
-
-- Airline Delay Analytics Dashboard✈️
+Building my analytics portfolio through practical case studies and data-driven projects focused on real-world business problems.
 
 ## 🛠️ Tools & Technologies I'm currently learning
 
