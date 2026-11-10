@@ -1,6 +1,6 @@
 # Hi, I'm Ragul Varadharajan 👋
 
-Incoming MSc Business Analytics student at the University of Birmingham.
+MSc Business Analytics student at the University of Birmingham.
 
 I recently completed my BBA in Business Administration with a specialization in Data Science & Artificial Intelligence. I'm passionate about business analytics, data visualization, and using data to solve real-world business problems.
 
